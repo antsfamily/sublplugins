@@ -1,7 +1,7 @@
 # Plugins Lists
 
-- [FilenameCopy](#FilenameCopy)
-- [Support or Contact](#Support-or-Contact)
+- [FilenameCopy](#filenamecopy)
+- [Support or Contact](#support-or-contact)
 
 
 
