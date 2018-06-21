@@ -1,11 +1,16 @@
 # Plugins Lists
 
-[TOC]
+<!-- MarkdownTOC -->
+
+- FilenameCopy
+- Support or Contact
+
+<!-- /MarkdownTOC -->
 
 
 ## FilenameCopy
 
-Copy current view filename and opened filenames. 
+Copy current view filename and opened filenames.
 
 - **usage:** just download and put it in folder sublime's Package folder (<kbd>Preference --> Browse Packages</kbd>).
 - **shotkeys:** <kbd>Preference --> Key Bindings</kbd>, than add as follows:
